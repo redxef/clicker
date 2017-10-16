@@ -270,6 +270,8 @@ int main(int argc, char **argv) {
                                 printf("l:  specify the left mouse button to be typed periodicall\n");
                                 printf("    the argument represents the delay\n");
                                 printf("r:  same as left mouse button, but the right mouse button\n");
+                                printf("L:  specify the left mouse button to be held until program exits\n");
+                                printf("R:  same as L but for the right mouse button\n")
                                 printf("\n");
                                 printf("all times are specified in milliseconds and can be specified in all 3 forms\n");
                                 return 0;
